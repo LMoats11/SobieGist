@@ -1,0 +1,49 @@
+<!--
+  SOBIE Site - Home Page
+  Author: Luke Moats
+  Description: Central homepage with links and intro
+  Features:
+    - Sidebar navigation
+    - "What's New" banner
+    - Global search bar
+    - Dynamic user name (localStorage)
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SOBIE Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>SOBIE Conference</h1>
+    <div class="banner">📢 What's New: Registration Now Open!</div>
+    <input type="text" placeholder="Search SOBIE..." class="search-bar" />
+  </header>
+
+  <main class="layout">
+    <nav class="sidebar">
+      <ul>
+        <li><a class="nav-link" href="index.html">Home</a></li>
+        <li><a class="nav-link" href="register.html">Register</a></li>
+        <li><a class="nav-link" href="schedule.html">Schedule</a></li>
+        <li><a class="nav-link" href="account.html">Account</a></li>
+      </ul>
+    </nav>
+
+    <section class="content">
+      <h2>Welcome to SOBIE 2025</h2>
+      <p>This is the central hub for updates and conference info.</p>
+    </section>
+
+    <aside class="user-panel">
+      <h3>User: <span class="user-name">...</span></h3>
+      <p>Status: Logged In</p>
+    </aside>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
