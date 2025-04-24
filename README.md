@@ -2,13 +2,13 @@
 
 ## 🎯 Summary
 
-This sub-issue enhances the Sobie Co. staging site by improving the user layout experience. I focused on **wayfinding and contextual awareness**, adding:
+This sub-issue enhances the Sobie Co. staging site by improving the user layout experience. I focused on **ease of use and quality of life**, adding:
 
 - 🟩 A sidebar navigation panel
 - 🟩 A "What's New" banner
 - 🟩 Responsive layout
 - 🟩 Countdown to the next conference
-- 🟩 Responsive layout
+- 🟩 Page Search Bar
 
 ---
 
@@ -18,7 +18,7 @@ This sub-issue enhances the Sobie Co. staging site by improving the user layout 
 |---------------------|------|
 | 🐝 Staging Repo     | https://github.com/barrycumbie/theSobieCo |
 | 🤠 My Fork          | https://github.com/LMoats11/theSobieCo |
-| 🌐 GitHub Pages     | https://YOUR_USERNAME.github.io/theSobieCo/ |
+| 🌐 VsCode                                                    |
 | 🐝 Sub-Issue        | https://github.com/barrycumbie/theSobieCo/issues/XX |
 | 🤠 Feature Branch   | `user-context-enhancement` |
 | 📁 Folder/Path      | `/index.html`, `/styles/style.css`, `/scripts/script.js` |
