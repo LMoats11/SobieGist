@@ -6,10 +6,9 @@ This sub-issue enhances the Sobie Co. staging site by improving the user layout 
 
 - 🟩 A sidebar navigation panel
 - 🟩 A "What's New" banner
-- 🟩 A user-context section (default: user, customizable via input)
-- 🟩 Responsive layout (mobile/tablet tested)
-- 🟩 Additional HTML page templates (About, Schedule)
-- 🟩 JavaScript to dynamically update the username
+- 🟩 Responsive layout
+- 🟩 Countdown to the next conference
+- 🟩 Responsive layout
 
 ---
 
